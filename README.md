@@ -2,9 +2,10 @@
 
 Backend Github Link [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Login Credentials
 
-In the project directory, you can run:
+Email: shmall.21.2020@gmail.com
+password:1234
 
 ### `npm start`
 
