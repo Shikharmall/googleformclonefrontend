@@ -1,0 +1,22 @@
+.headinginput{
+    margin: 50px;
+}
+
+.headinginput input{
+    width: 100%;
+    font-size: 20px;
+}
+
+.headinginput input:focus{
+    outline: none;
+}
+
+
+.headingquestioninput input{
+    width: 100%;
+    font-size: 17px;
+}
+
+.headingquestioninput input:focus{
+    outline: none;
+}
