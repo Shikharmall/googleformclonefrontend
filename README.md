@@ -18,6 +18,8 @@ password:1234
 ### Features
 
 Admin can create form where they can submit users information.
+
 He can use text , option and images in the form.
+
 Also he can see reponse of the users.
 
